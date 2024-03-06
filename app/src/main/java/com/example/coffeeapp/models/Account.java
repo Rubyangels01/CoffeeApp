@@ -8,6 +8,7 @@ public class Account {
     private String password;
 
     private String role;
+    
 
     public Account(String username, String password, String role) {
         this.username = username;
